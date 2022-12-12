@@ -17,3 +17,7 @@
 8- Paginación.
 
 9- Tareas Progranadas.
+
+10- Ejemplo de carro de compras.
+
+11- Pago con Pasarelas de pagos.
