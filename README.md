@@ -10,4 +10,10 @@
 
 5- User config
 
-6- Crud con dashboard
+6- Crud con dashboard.
+
+7- Validación cuenta cuenta con email.
+
+8- Paginación.
+
+9- Tareas Progranadas.
